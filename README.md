@@ -2,9 +2,6 @@
 
 A comprehensive internship platform for UiTM students.  
 
-## Role
-Final Year Project (Individual)
-
 ## Key Contributions
 - Enabled real-time status tracking for students and supervisors.  
 - Reduced paperwork and administrative time by digitizing the internship placement process.
